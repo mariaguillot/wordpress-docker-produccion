@@ -1,0 +1,6 @@
+.env
+/dbdata
+/wordpress
+/logs
+/nginx
+/ssl
